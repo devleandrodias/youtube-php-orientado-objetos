@@ -6,32 +6,32 @@ class Produto
 {
   private $id, $nome, $descricao;
 
-  public function GetNome()
+  public function getNome()
   {
     return $this->nome;
   }
 
-  public function SetNome($nome)
+  public function setNome($nome)
   {
     $this->nome = $nome;
   }
 
-  public function GetDescricao()
+  public function getDescricao()
   {
     return $this->descricao;
   }
 
-  public function SetDescricao($descricao)
+  public function setDescricao($descricao)
   {
     $this->descricao = $descricao;
   }
 
-  public function GetId()
+  public function getId()
   {
     return $this->id;
   }
 
-  public function SetId($id)
+  public function setId($id)
   {
     $this->id = $id;
   }
