@@ -1,0 +1,14 @@
+{
+  "name": "leandrodbdias/composer",
+  "description": "Sistema desenvolvido com composer",
+  "require": {
+    "dompdf/dompdf": "^0.8.5",
+    "pagseguro/pagseguro-php-sdk": "^6.0"
+  },
+  "authors": [
+    {
+      "name": "devleandrodias",
+      "email": "leandrodbdias@gmail.com"
+    }
+  ]
+}
