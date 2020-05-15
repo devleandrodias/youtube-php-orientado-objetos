@@ -1,0 +1,9 @@
+{
+  "name": "leandrodbdias/crud",
+  "description": "Primeiro CRUD desenvolvido com POO em PHP",
+  "autoload": {
+    "psr-4": {
+      "App\\": "app/"
+    }
+  }
+}
